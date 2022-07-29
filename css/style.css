@@ -39,3 +39,18 @@ main form{
     color: white;
     background-color: #383c42;
 }
+
+
+.rodape{
+    width: 100%;
+    height: 3rem;
+    font-size: 80%;
+
+    color: white;
+    background-color: #383c42;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
